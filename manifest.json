@@ -1,0 +1,28 @@
+{
+    "name": "Internet sourse",
+    "short name": "Pames",
+    "icons":[
+       {
+         "src": "/images/app-icon.png",
+         "type":"image/png",
+         "size": "48x48"
+        },
+
+        {
+         "src": "/images/app-icon.png",
+         "type":"image/png",
+         "size": "48x48" 
+         }
+
+    ],
+
+    "start_url": "/index.html",
+    "scope": ".",
+    "display": "fullscreen",
+    "orientation": "portait-primaly",
+    "backround-color": "#fff",
+    "theme_color": "#3f51b5",
+    "description": "A simple sourse",
+    "dir":"ltr",
+    "lang": "en-US"
+}    
