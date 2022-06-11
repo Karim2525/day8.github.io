@@ -3,7 +3,7 @@
     "short name": "Pames",
     "icons":[
        {
-         "src": "/images/app-icon1.png",
+         "src": "/images/app-icon.png",
          "type":"image/png",
          "size": "48x48"
         },
@@ -12,7 +12,14 @@
          "src": "/images/app-icon.png",
          "type":"image/png",
          "size": "96x96" 
-         }
+         },
+
+         {
+            "src": "/images/app-icon144.png",
+            "type":"image/png",
+            "size": "144x144" 
+            }
+   
 
     ],
 
